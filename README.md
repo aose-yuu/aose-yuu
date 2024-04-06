@@ -15,11 +15,4 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://gitstar-ranking.com/aose-yuu">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Faose-yuu%2Fshields" />
-  </a>
-  <a href="https://user-badge.committers.top/japan/aose-yuu">
-    <img height="20" src="https://user-badge.committers.top/japan/aose-yuu.svg" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aose-yuu)](https://github.com/aose-yuu/github-readme-stats)
