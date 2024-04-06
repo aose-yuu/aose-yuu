@@ -13,7 +13,4 @@
   <a href="http://qiita.com/aose-yuu">
     <img height="20" src="https://qiita-badge.apiapi.app/s/aose-yuu/posts.svg" />
   </a>
-  <//qiita.com/aose-yuu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/aose-yuu/contributions.svg" />
-  </a>
 </p>
