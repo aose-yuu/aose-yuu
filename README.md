@@ -16,3 +16,4 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aose-yuu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/aose-yuu/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aose-yuu&theme=onedark)](https://github.com/aose-yuu/github-profile-trophy)
